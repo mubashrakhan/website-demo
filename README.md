@@ -31,9 +31,8 @@ Do you need a beautiful, fully customized popup for your website? I offer fast, 
 
 ## 💼 Portfolio & Examples
 
-- [Live Demo 1](#)  
-- [Live Demo 2](#)  
-- [Sample Customization](#)
+- [[Live Demo 1](#) ](http://127.0.0.1:5500/him.html) 
+- [[Live Demo 2](#)  ](http://127.0.0.1:5501/HIM.html)
 
 ---
 
